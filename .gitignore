@@ -15,7 +15,6 @@
 **/cloud_sql_proxy
 
 **/.DS_Store
-**/*.csv
 **/js/
 **/package-lock.json
 **/yarn.lock
